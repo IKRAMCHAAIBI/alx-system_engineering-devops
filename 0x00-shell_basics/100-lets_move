@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amvp
+mv [[:upper]]* /tmp/u
